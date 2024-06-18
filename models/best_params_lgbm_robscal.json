@@ -1,0 +1,1 @@
+{"bagging_fraction": 0.85, "bagging_freq": 5, "bagging_seed": 7, "colsample_bytree": 0.8, "feature_fraction": 0.2, "feature_fraction_seed": 7, "learning_rate": 0.01, "max_bin": 200, "max_depth": -1, "min_child_samples": 20, "n_estimators": 5000, "num_leaves": 4, "subsample": 0.8}
